@@ -8,4 +8,4 @@ Blog Post is a website designed to allow the user to create, read, edit, and del
 ![Image](./images/blogpost3.png)
 
 ## Link to Deployed Site
-[Deployed Site]()
+[Deployed Site](https://akcashing.github.io/Blog-Post/)
